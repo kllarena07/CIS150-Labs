@@ -18,7 +18,7 @@ CIS 150, otherwise known as Computer Science I, is an introductory class to C++ 
 
 CIS 150L is the lab corequisite for CIS150
 
-### UM-Dearborn's CIS 150 Description
+### CIS 150 Description
 
 This course provides a foundation for further studies in computer and information science and emphasizes a structured approach to problem solving and algorithm development. Topics include principles of program design, coding, debugging, testing, and documentation. Students are introduced to the Unified Modeling Language for requirements analysis using use-cases and activity diagrams, an object oriented programming language, and the fundamentals of computer hardware, system software, and components. The course will consist of three lecture hours and one two-hour laboratory.
 
